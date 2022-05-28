@@ -6,6 +6,7 @@ const MainPage = () => {
     return (
         <div>
             <h2>Main Page</h2>
+            <h2>Docker</h2>
         </div>
     )
 }
